@@ -6,7 +6,7 @@
 #include "driver/twai.h"
 
 /* Defines ------------------------------------------------------------------- */
-#define ESP32CAN_DEBUG     /* serial print debug info */
+//#define ESP32CAN_DEBUG     /* serial print debug info */
 
 /* Macros -------------------------------------------------------------------- */
 #ifdef ESP32CAN_DEBUG
