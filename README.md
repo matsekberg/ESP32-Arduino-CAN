@@ -1,6 +1,6 @@
 # Arduino Library for the ESP32 CAN Bus (ESP32-Arduino-CAN)
 
-## V2.0.1
+## V2.0.0
 
 This is an update of the forked library rewritten by [sdp8483](https://github.com/sdp8483/ESP32-Arduino-CAN). I have done small modifications to suit my needs.
 
