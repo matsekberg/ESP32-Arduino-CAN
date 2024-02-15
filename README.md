@@ -6,7 +6,9 @@ This is an update of the forked library rewritten by [sdp8483](https://github.co
 
 The sdp8483-fork is a rewrite of the original library created by [miwagner](https://github.com/miwagner/ESP32-Arduino-CAN). The old version of this library used registry commands to configure the TWAI[^1] peripheral and has not been updated in years. Newer versions of the Espressif IDF have built in functions to configure the TWAI peripheral that are more reliable. V2.0 of this library incorporates these new IDF functions in the original function calls of the ESP32-Arduino-CAN library.
 
+### 2.0.1
 
+Removed default debugging on.
 
 
 ## Features
